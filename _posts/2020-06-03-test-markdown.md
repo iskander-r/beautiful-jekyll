@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Sample blog post
+title: Scandinavian Design
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 ---
 ![Scandinavian Design](https://wilmotsdecorating.com/wp-content/uploads/2018/07/fullsizeoutput_50f.jpeg)
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+This is a post about Scandinavian Design and its impact on the modern culture. However, most importantly I am exploring the origins and reasons behind the widespread adoption of Scandinavian Design.
 
 **Here is some bold text**
 
